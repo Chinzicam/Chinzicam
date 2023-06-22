@@ -1,6 +1,31 @@
 ### Hi there 👋
 
+**Preview**：From Jiangxi, China 🏝, love coding 🐍. A student 🏫，love anime🌿 , I’m currently learning Java 🌱.
+
+**Blog**：[My Blog](https://Chinzicam.github.io)
+
+**Contact**：a3189797316@163.com
+
+**bilibili** [bilibili](https://space.bilibili.com/243862653?spm_id_from=333.1007.0.0)
+
 <!--
+**Chinzicam/Chinzicam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+Here are some ideas to get you started:
+
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m lookHi there 👋 
+- ing to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+-->
+
+
+
 **Chinzicam/Chinzicam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -13,4 +38,10 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+  -->
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Chinzicam&layout=compact)](https://github.com/Chinzicam/github-readme-stats)
+
+![My stats](https://github-readme-stats.vercel.app/api?username=Chinzicam&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff&hide_title=true)
+
+![](https://raw.githubusercontent.com/Chinzicam/Chinzicam/output/github-contribution-grid-snake.svg)
