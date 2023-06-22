@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋 Welcome to my GitHub👋.
 
 **Preview**：From Jiangxi, China 🏝, love coding 🐍. A student 🏫，love anime🌿 , I’m currently learning Java 🌱.
 
@@ -13,6 +13,3 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Chinzicam&layout=compact)](https://github.com/Chinzicam/github-readme-stats)
 
 ![My stats](https://github-readme-stats.vercel.app/api?username=Chinzicam&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff&hide_title=true)
-
-![](https://raw.githubusercontent.com/Chinzicam/Chinzicam/main/assets/github-contribution-grid-snake.svg)
-
