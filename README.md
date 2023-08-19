@@ -4,8 +4,8 @@
 
 **Preview**：From Jiangxi, China 🏝, love coding 🐍. A student 🏫.
 
-**Blog**：[My Blog](https://Chinzicam.github.io)
+**博客**：[橙子草的小破站](https://Chinzicam.github.io)
 
-**Contact**：a3189797316@163.com
+**邮箱**：a3189797316@163.com
 
-**bilibili**： [bilibili](https://space.bilibili.com/243862653?spm_id_from=333.1007.0.0)
+**b站**： [bilibili](https://space.bilibili.com/243862653)
