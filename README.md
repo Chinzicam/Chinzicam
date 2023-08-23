@@ -4,7 +4,7 @@
 
 **Preview**：From Jiangxi, China 🏝, love coding 🐍. A student 🏫.
 
-**博客**：[橙子草的小破站](https://Chinzicam.github.io)
+**博客**：[橙子草的小破站](www.chinzicam.top)
 
 **邮箱**：a3189797316@163.com
 
