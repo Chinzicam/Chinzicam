@@ -2,7 +2,7 @@
 
 ### Hi there 👋 Welcome to my GitHub👋.
 
-**Preview**：From Jiangxi, China 🏝, love coding 🐍. A student 🏫.
+**Preview**：From Jiangxi😊, China 🏝, love coding 🐍. A student 🏫.
 
 **博客**：[橙子草的小破站](https://www.chinzicam.top/)
 
